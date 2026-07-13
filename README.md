@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sarahoyar67890-gif/sarahoyar67890-gif/main/github_banner.png" width="100%" alt="banner"/>
-
-<br/><br/>
-
 <img width="300" alt="girl coding gif" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif">
 
 <br/>
