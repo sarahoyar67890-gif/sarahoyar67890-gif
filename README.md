@@ -2,13 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/sarahoyar67890-gif/sarahoyar67890-gif/main/github_banner.png" width="100%" alt="banner"/>
 
-</div>
+<br/><br/>
+
+<img width="300" alt="girl coding gif" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif">
 
 <br/>
-
-<img align="right" width="260" alt="coding gif" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif">
-
-<div align="center">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=E75480&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Sara+Ahmad;AI%2FML+Engineer+from+Pakistan;Building+Agentic+AI+%26+RAG+Pipelines;LangGraph+%7C+LLM+Apps+%7C+MLOps;Always+learning%2C+always+shipping" alt="Typing SVG" />
@@ -21,8 +19,6 @@
 ![Status](https://img.shields.io/badge/status-open_to_work-brightgreen?style=for-the-badge)
 
 </div>
-
-<br clear="right"/>
 
 ---
 
